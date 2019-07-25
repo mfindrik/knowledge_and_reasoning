@@ -1,1 +1,7 @@
-# mathematical_logic
+# Mathematical logic
+
+## Propositional logic
+
+## First order logic
+
+## Temporal logic
