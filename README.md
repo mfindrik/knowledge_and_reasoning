@@ -5,7 +5,7 @@ Mathematical logic has a strong influence on computer science and field of artif
 Before digging further into expert systems and Semantic Web, let's explain some basics of mathematical logic that will give us an idea about how to formally express knowledge and reason over it. In the text below most common types of logic are are outline.
 
 ## Propositional logic
-
+Aka boolean logic deals with propositions (statements) which can either be true or false such as "It's sunny outside right now.". Right, so besides propositions we need operators in order to build up logical expressions. Available operators in propositional logic are ARE, OR and NOT. 
 ## Description Logic
 
 ## First order logic
